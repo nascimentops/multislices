@@ -1,4 +1,4 @@
-package multiarr
+package multislices
 
 //função que recebe duas slices e retorna a multiplicação de seus elementos
 func MultiElements(a, b []int) []int {
